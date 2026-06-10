@@ -46,7 +46,7 @@ pip install pyinstaller
 ```
 
 ### Step 2 — Build the .exe
-Run this from inside the OliSched folder:
+Run this from inside the OliSched folder(where your files are stored):
 ```
 pyinstaller --onefile --windowed --name OliSched main.py
 ```
@@ -89,4 +89,4 @@ That's your portable app. Copy it anywhere — it runs on Windows without Python
 
 ---
 
-Made for OliSched — your personal daily command center.
+Made for OliSched — your personal daily command center to track your progress.
